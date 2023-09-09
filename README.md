@@ -6,7 +6,7 @@ This small project is centered around the chances of survival aboard the Titanic
 - Basic statistical methods can be as informative as advanced machine learning algorithms, especially when dealing with well-structured datasets.
 # Tools & Libraries
 The study is conducted using classic machine learning libraries:
-**Pandas*
-**Numpy*
-**Matplotlib*
-**Seaborn*
+**Pandas*//
+**Numpy*//
+**Matplotlib*//
+**Seaborn*//
